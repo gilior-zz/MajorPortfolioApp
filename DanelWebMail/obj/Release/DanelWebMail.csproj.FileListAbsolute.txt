@@ -1,0 +1,15 @@
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\DanelWebMail.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\DanelWebMail.pdb
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Common.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Dns.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Groupware.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Imap4.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Mail.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Nntp.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.OpenPGP.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Pop3.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.Smtp.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\bin\Release\ActiveUp.Net.WhoIs.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\obj\Release\DanelWebMail.csprojResolveAssemblyReference.cache
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\obj\Release\DanelWebMail.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\obj\Release\DanelWebMail.pdb

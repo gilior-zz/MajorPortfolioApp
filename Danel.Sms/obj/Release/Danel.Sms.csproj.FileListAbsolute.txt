@@ -1,0 +1,10 @@
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.X\Danel\Danel Dlls\Danel.Sms\Danel.Sms.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.X\Danel\Danel Dlls\Danel.Sms\Danel.Sms.pdb
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.X\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.X\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.pdb
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.X\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.csprojResolveAssemblyReference.cache
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel\Danel Dlls\Danel.Sms\Danel.Sms.dll
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel\Danel Dlls\Danel.Sms\Danel.Sms.pdb
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.csprojResolveAssemblyReference.cache
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.dll
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel\Sms\Danel.Sms\obj\Release\Danel.Sms.pdb

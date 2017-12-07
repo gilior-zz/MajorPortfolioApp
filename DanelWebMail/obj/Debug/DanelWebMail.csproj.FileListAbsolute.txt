@@ -1,0 +1,4 @@
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel Dlls\DanelWebMail\DanelWebMail.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel Dlls\DanelWebMail\DanelWebMail.pdb
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\obj\Debug\DanelWebMail.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\DanelWebMail\obj\Debug\DanelWebMail.pdb

@@ -1,0 +1,9 @@
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel Dlls\Danel.X.Web.Common\Danel.X.Web.Common.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel Dlls\Danel.X.Web.Common\Danel.X.Web.Common.pdb
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\Danel.X.Web.Common\obj\Debug\Danel.X.Web.Common.dll
+D:\TFSWork\CodeBranches\Ver7.5\Ver7.5.4\Danel X\Danel.X.Web\Danel.X.Web.Common\obj\Debug\Danel.X.Web.Common.pdb
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel Dlls\Danel.X.Web.Common\Danel.X.Web.Common.dll
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel Dlls\Danel.X.Web.Common\Danel.X.Web.Common.pdb
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel X\Danel.X.Web\Danel.X.Web.Common\obj\Debug\Danel.X.Web.Common.csprojResolveAssemblyReference.cache
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel X\Danel.X.Web\Danel.X.Web.Common\obj\Debug\Danel.X.Web.Common.dll
+D:\TFSWork\CodeBranches\Ver7.6\Ver7.6.1\Danel X\Danel.X.Web\Danel.X.Web.Common\obj\Debug\Danel.X.Web.Common.pdb
